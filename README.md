@@ -33,6 +33,10 @@ TODO
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or fixes.
 
+## Support
+
+You can reach me via Email or WeChat(ID: **patstar123**), but I might not be able to respond promptly.
+
 ## License
 
 This project is licensed under the MIT License.
