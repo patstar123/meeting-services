@@ -1,0 +1,4 @@
+[submodule "3rd"]
+	path = 3rd
+	url = git@github.com:patstart/ms-3rd.git
+	branch = main
