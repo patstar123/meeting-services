@@ -1,4 +1,4 @@
-[submodule "3rd"]
-	path = 3rd
-	url = git@github.com:patstart/ms-3rd.git
+[submodule "base"]
+	path = base
+	url = git@github.com:patstar123/meeting-base.git
 	branch = main
