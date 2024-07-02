@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sfu" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="meeting-services" />
+    <working_directory value="$PROJECT_DIR$/out" />
+    <kind value="DIRECTORY" />
+    <directory value="$PROJECT_DIR$/app/sfu/cmd" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/out" />
+    <method v="2" />
+  </configuration>
+</component>

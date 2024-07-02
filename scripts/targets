@@ -1,0 +1,3 @@
+# building targets
+./app/ccm/cmd ccm
+./app/sfu/cmd sfu
